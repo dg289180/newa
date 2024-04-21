@@ -1,0 +1,30 @@
+{
+  "name": "dg289180",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dg289180/newa.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"kbiopaa": "^1.0.0",
+	"kbiopaa-one": "^1.0.0",
+  	"de147890": "^1.0.0",
+	"de147890-one": "^1.0.0",
+  	"astinj63": "^1.0.0",
+	"astinj63-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
